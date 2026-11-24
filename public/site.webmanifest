@@ -1,0 +1,22 @@
+{
+  "name": "VentureRush Tech S.G.A Checker — Free SEO, AEO & GEO Checker Online",
+  "short_name": "S.G.A Checker",
+  "description": "Free SEO, AEO & GEO website checker online by VentureRush Tech. Run 224 live diagnostic checks with 4 score meters and instant PDF & CSV reports.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0A1633",
+  "icons": [
+    {
+      "src": "/assets/vrLogoBlue.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/vrLogoBlue.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

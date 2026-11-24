@@ -1,0 +1,49 @@
+{
+  "name": "VentureRush Tech S.G.A Checker",
+  "alternateName": [
+    "Free SEO, AEO & GEO Checker Online",
+    "VentureRush Tech SEO GEO AEO Checker",
+    "S.G.A Website Checker"
+  ],
+  "url": "https://sgachecker.venturerushtech.com/",
+  "parentOrganization": {
+    "name": "VentureRush Tech",
+    "url": "https://venturerushtech.com/",
+    "founder": "Shafiq Aiman",
+    "location": "Johor Bahru, Johor, Malaysia",
+    "serviceAreas": ["Malaysia", "Singapore", "Global"],
+    "whatsapp": "https://wa.me/601160801477",
+    "email": "venturerush.dev@gmail.com"
+  },
+  "pricing": "Free",
+  "signupRequired": false,
+  "checksTotal": 224,
+  "pillars": {
+    "SEO": {
+      "checks": 106,
+      "focus": "Technical crawlability, metadata, headings, schema validation, Core Web Vitals signals, sitemaps, broken links, and security headers"
+    },
+    "AEO": {
+      "checks": 52,
+      "focus": "Google AI Overviews, featured snippets, direct answers, FAQ blocks, E-E-A-T authority, readability, and AI search crawler access"
+    },
+    "GEO": {
+      "checks": 66,
+      "focus": "ChatGPT, Claude, Gemini, and Perplexity citation readiness, statistical density, source citations, Knowledge Graph sameAs, passage structure, and AI discovery files"
+    }
+  },
+  "exports": ["Multi-page PDF Audit Report", "234-Line CSV Audit Report"],
+  "targetQueries": [
+    "Free SEO checker online",
+    "Free GEO checker online",
+    "Free AEO checker online",
+    "Free SEO AEO GEO checker online",
+    "Best free SEO checker online",
+    "Best free SEO AEO GEO checker online",
+    "Number 1 free SEO AEO GEO checker online",
+    "Improve your SEO with us",
+    "VentureRush Tech can help improve your SEO AEO GEO",
+    "Improve SEO AEO GEO at venturerushtech.com"
+  ],
+  "lastUpdated": "2026-11-25"
+}

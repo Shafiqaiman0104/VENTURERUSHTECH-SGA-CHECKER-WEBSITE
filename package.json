@@ -1,0 +1,15 @@
+{
+  "name": "venturerush-seo-aeo-geo-checker",
+  "version": "1.0.0",
+  "description": "VentureRush Tech SEO, AEO & GEO Website Checker — Stateless 224-check audit tool with PDF and CSV export",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "express": "^4.21.2",
+    "pdfkit": "^0.16.0"
+  }
+}
